@@ -1,0 +1,3 @@
+#!/home/recruit/Umuzi/Multilinear/env/bin/python3
+from numba.pycc import main
+main()
